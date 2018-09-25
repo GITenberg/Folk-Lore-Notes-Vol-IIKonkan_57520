@@ -1,5 +1,8 @@
 _repo: Folk-Lore-Notes-Vol-IIKonkan_57520
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57520-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Jackson, A. M. T.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '48691'
     url: http://www.gutenberg.org/2009/agents/48691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57520#Folk-Lore-Notes-Vol-IIKonkan
 gutenberg_issued: '2018-07-16'
 gutenberg_type: Text
 identifiers:
